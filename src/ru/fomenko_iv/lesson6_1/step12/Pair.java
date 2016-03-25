@@ -1,6 +1,5 @@
 package ru.fomenko_iv.lesson6_1.step12;
 
-import java.util.NoSuchElementException;
 import java.util.Objects;
 import java.util.Optional;
 
